@@ -1,0 +1,57 @@
+html{
+     background:linear-gradient( #b5b3b3,#949494)
+}
+
+#p1{
+   font-size: 50px;
+   text-align:center;
+    color:white;
+    font-family: 'Concert One', cursive;
+   }
+   
+
+#p2{color:white;
+	font-size: 30px;
+	text-align: center;
+    }
+
+#p3{font-size: 30px;
+	text-align: center;
+    color:white;}
+
+#p4{font-size: 30px;
+    text-align: center;
+    color:white;}
+
+#p5{font-size: 40px;
+    text-align: center;
+    color:white;
+    font-family: 'Slabo 27px', serif;
+    margin: 10px}
+
+#p6{font-size: 40px;
+    text-align: center;
+    color:white;
+    font-family: 'Slabo 27px', serif;
+    margin: 10px;
+    font-family: 'Concert One', cursive;}
+
+#p7{font-size: 40px;
+    text-align: center;
+    color:white;
+    font-family: 'Slabo 27px', serif;
+    margin: 10px;
+    
+
+    }
+
+#img1{width: 40%;
+      height: auto;
+      margin-left: 10%}
+#img2{width: 40%;
+      height: auto;
+      margin-left: 10px}   
+#img3{width: 40%;
+      height: auto;
+      float: left;
+      margin:15px}           	
